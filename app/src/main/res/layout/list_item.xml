@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:minHeight="@dimen/list_item_height"
+    android:background="@color/tan_background"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/icon_image_view"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:src="@mipmap/ic_launcher"
+        />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/content_layout"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/miwok_text_view"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/white"
+            android:gravity="bottom"
+            tools:text="lutti"/>
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:id="@+id/default_text_view"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/white"
+            android:gravity="top"
+            tools:text="one"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:id="@+id/image_layout"
+        >
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center_horizontal"
+        android:tint="@color/white_color"
+        android:src="@drawable/ic_play_arrow_black_24dp"
+        />
+    </LinearLayout>
+
+</LinearLayout>
