@@ -1,5 +1,6 @@
 package com.example.android.miwok;
 
+import android.content.Context;
 import android.support.annotation.NonNull;
 import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
@@ -20,26 +21,9 @@ public class WordAdapter extends ArrayAdapter<Word> {
 
     private int color;
 
-
-
-    public WordAdapter(NumbersActivity numbersActivity, ArrayList<Word> words, int color) {
-        super(numbersActivity, 0, words);
-        this.color = color;
-    }
-
-    public WordAdapter(FamilyMembersActivity familyMembersActivity, ArrayList<Word> words, int color) {
-        super(familyMembersActivity, 0, words);
-        this.color = color;
-    }
-
-    public WordAdapter(PhrasesActivity phrasesActivity, ArrayList<Word> words, int color) {
-        super(phrasesActivity, 0, words);
-        this.color = color;
-    }
-
-    public WordAdapter(ColorsActivity colorsActivity, ArrayList<Word> words, int color) {
-        super(colorsActivity, 0, words);
-        this.color = color;
+    public WordAdapter(Context context, ArrayList<Word> words, int colorResourceId) {
+        super(context, 0, words);
+        color = colorResourceId;
     }
 
     @NonNull

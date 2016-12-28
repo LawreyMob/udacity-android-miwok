@@ -3,12 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="a0eeb61c619ef130331e27725658332d5bcde00a">
-        <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a70737b5ad226436b74797364332d74d6f250f2d/classes.dex" />
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_690ae9cf7b913e15d47db1c2e4e33326432968cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6a20e576023e218ebe4898cedcd8d0bda72dfc2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_da09cff1133699fc1bf5b11fa2655e854cb04acb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_bb2481da73ffcb74666629be2d1241e708af0bce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_b6cb2a63eecfc836f674f27318160bf03f2aac36/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -21,30 +57,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jar="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_746a43c35e936a67236d47f769f874622540908a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_690ae9cf7b913e15d47db1c2e4e33326432968cd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_058ff20382e6d9da01e885de168be1d42124c076/classes.dex" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_d6e4edcc93d3c3da51148cadcaa717cd5aa113d8/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -54,6 +72,78 @@
         revision="23.0.2"
         sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
         <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_686934c31714c68a4d2a9c197305a607167aa988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_c2342759debb1b5005d99573253af0b9c1db9649/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0eeb61c619ef130331e27725658332d5bcde00a">
+        <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a70737b5ad226436b74797364332d74d6f250f2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_746a43c35e936a67236d47f769f874622540908a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_2907ae60ca15492b06a84f590a65e1e7b3e015bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_944588d5f621ab132ed296a374c1b8f9f5d2212e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b5ebc8158d20b8db140e4e3f667f96604d1ec374">
+        <dex dex="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_307538a2d979b144cc7361e2234339473d5e7db0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_8adc4bce807a10d166f76be1f7ee34f505403b2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_058ff20382e6d9da01e885de168be1d42124c076/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,21 +165,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_c2342759debb1b5005d99573253af0b9c1db9649/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="3544703e0b061ebe266d8550338861e6fb6c66ff">
         <dex dex="/Users/Lawrey/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_305811c93b69568831f22a9db763e2bc7db6c93f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0d8469c9c1ba93bdcc3d8d0479977200c0586416">
+        <dex dex="/Users/Lawrey/udacity-android-miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_69a6cd8a1a55f7f54dbb7ebc616349b29c962faa/classes.dex" />
     </item>
 
 </items>
