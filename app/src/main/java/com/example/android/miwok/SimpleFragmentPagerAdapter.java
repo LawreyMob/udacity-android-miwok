@@ -1,5 +1,6 @@
 package com.example.android.miwok;
 
+import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
@@ -10,8 +11,13 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
+    final int PAGE_COUNT = 4;
+    private String tabTitles[] = new String[] { "Numbers", "Family", "Colors", "Phrases" };
+    private Context context;
+
     public SimpleFragmentPagerAdapter(FragmentManager fm) {
         super(fm);
+        this.context = context;
     }
 
     @Override
@@ -25,6 +31,12 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
         } else {
             return new PhrasesFragment();
         }
+    }
+
+    @Override
+    public CharSequence getPageTitle(int position) {
+        // Generate title based on item position
+        return tabTitles[position];
     }
 
     @Override
