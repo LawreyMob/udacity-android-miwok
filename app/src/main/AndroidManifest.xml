@@ -29,22 +29,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".NumbersActivity"
-                  android:label="Numbers"
-                  android:parentActivityName="com.example.android.miwok.MainActivity"
-            />
-        <activity android:name=".FamilyMembersActivity"
-                  android:parentActivityName="com.example.android.miwok.MainActivity"
-                  android:label="Family Members"/>
-        <activity android:name=".ColorsActivity"
-                  android:parentActivityName="com.example.android.miwok.MainActivity"
-                  android:label="Colors"
-            />
-        <activity android:name=".PhrasesActivity"
-                  android:parentActivityName="com.example.android.miwok.MainActivity"
-                  android:label="Phrases">
-
-        </activity>
     </application>
 
 </manifest>
